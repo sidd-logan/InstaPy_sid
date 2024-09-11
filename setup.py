@@ -10,6 +10,7 @@ from os import path
 from io import open as io_open
 import re
 
+print('changed')
 
 summary = "Tool for automated Instagram interactions"
 project_homepage = "https://github.com/InstaPy/InstaPy"
